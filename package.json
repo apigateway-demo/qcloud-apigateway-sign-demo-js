@@ -1,0 +1,23 @@
+{
+  "name": "qcloud-apigateway-sign-demo-js",
+  "version": "1.0.0",
+  "description": "## 注意事项",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiushaoxi/qcloud-apigateway-sign-demo-js.git"
+  },
+  "author": "joshua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qiushaoxi/qcloud-apigateway-sign-demo-js/issues"
+  },
+  "homepage": "https://github.com/qiushaoxi/qcloud-apigateway-sign-demo-js#readme",
+  "dependencies": {
+    "hmacsha1": "^1.0.0",
+    "superagent": "^3.8.3"
+  }
+}
